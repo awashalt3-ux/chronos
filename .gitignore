@@ -1,0 +1,30 @@
+# Build output
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.pdb
+
+# Build directories
+build/
+bin/
+out/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local data / dumps
+*.log
+*.tmp
+preview*.txt
